@@ -1,1 +1,1 @@
-###### New Repo For Learning GCP DEVOPS Project ######
+### New Repo For Learning GCP DEVOPS Project 
